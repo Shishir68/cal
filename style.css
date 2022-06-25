@@ -3,6 +3,12 @@
 	padding: 0;
 }
 
+h1{
+text-algin: center;
+font-style: sans-serif;
+Color: violet;
+background-color: black;
+}
 body{
 	background-color: #f1f1f1;
 }
